@@ -1,0 +1,22 @@
+{
+  "name": "maxui",
+  "version": "1.0.0",
+  "description": "UI组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwellcatoo/maxUI.git"
+  },
+  "keywords": [
+    "maxUI"
+  ],
+  "author": "maxwellcatoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwellcatoo/maxUI/issues"
+  },
+  "homepage": "https://github.com/maxwellcatoo/maxUI#readme"
+}
